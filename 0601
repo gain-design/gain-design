@@ -1,0 +1,7 @@
+에코 "# 게인-디자인" >> README.md 
+git init 
+git add README.md 
+git commit -m "첫번째 라" 
+git branch -M main 
+git remote add origin https://github.com/gain-design/gain - design.git
+ git push -u 원점 메인
